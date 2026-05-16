@@ -13,6 +13,6 @@ docker run --rm -it --network host -v "$PWD:/work" -w /work yt-dlp-runtime -S "e
 " "https://youtu.be/GfJrqiBaLSE?si=bOWws8x113lCFi0K"
 ```
 
-## Acknowledgement  
+## Acknowledgment  
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)  
